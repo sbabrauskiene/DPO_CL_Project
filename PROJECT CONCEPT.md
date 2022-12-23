@@ -28,7 +28,7 @@ This repository contains code and supporting material for my CL project involvin
 Разработка проекта включает в себя несколько этапов:
     <li> Изучить <a href="https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree">The ElementTree XML API</a> для парсинга xml.</li>
     <li> Изучить и проанализивать структуру xml tmx-файлов, понять, как обращаться к нужным узлам xml.</li>
-    <li> Понять, как искать полные дубликаты. Изучить модуль <a href="https://docs.python.org/3/library/difflib.html">Difflib</a>, метод SequenceMatcher.</li>
+    <li> Понять, как искать полные дубликаты. Изучить модуль <a href="https://docs.python.org/3/library/difflib.html">difflib</a>, метод SequenceMatcher.</li>
     <li> Написать регулярные выражения, которыми можно найти нужные "проблемные места". Как сравнивать только текст - без лишних символов?</li>
     <li> Отдельный вопрос - как искать потенциальные дубликаты, если в тексте опечатки или добавлены/удалены незначащие слова (артикли, предлоги). Изучить возможность использования <a href="https://abiword.github.io/enchant/">pyenchant</a> для автоматизации исправления опечаток.</li>
     <li> Опционально - написать пользовательский интерфейс.</li>
