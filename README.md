@@ -24,5 +24,5 @@ This repository contains code and supporting material for my CL project involvin
 
 ### Подход к разработке проекта
 Разработка проекта включает в себя несколько этапов:
-<li> Изучение и анализ структуры xml-файлов, изучение <a href="https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree">The ElementTree XML API</a>
-  
+<li> Изучение и анализ структуры xml-файлов, изучение <a href="https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree">The ElementTree XML API</a> для парсинга xml.</li>
+<li>   
