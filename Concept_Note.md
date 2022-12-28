@@ -47,3 +47,8 @@ This repository contains code and supporting material for my CL project involvin
  </br>
  
  Эта задача будет подробнее изучена на следующем этапе работы над проектом. 
+</br>
+#### Полезные ссылки
+Коллокации в параллельных корпусах: </br>
+    <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora">Extracting collocations and their translations from parallel corpora</a></li>
+    
