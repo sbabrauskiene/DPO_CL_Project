@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20230103T172842Z" creationid="SONY-S\Svetlana">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">Sample</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body>
+    <tu creationdate="20151023T120638Z" creationid="SONY-S\Svetlana" changedate="20230103T172937Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T172937Z" usagecount="5">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Bayer BG 8 Format / Bayer GB 8 Format</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Форматы Bayer BG8 / GB8</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20151023T120638Z" creationid="SONY-S\Svetlana" changedate="20230103T172942Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T172942Z" usagecount="2">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">5820840016551268156, -7522920969370100837</prop>
+      <prop type="x-ContextContent">Bayer BG 12 Format / Bayer GB 12 Format |  | Форматы Bayer BG12 / GB12 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Bayer BG 12 Format / Bayer GB 12 Format</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Форматы Bayer BG12 / GB12</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T172947Z" creationid="SONY-S\Svetlana" changedate="20230103T173003Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173003Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8448165797751636645, 7027545648588429945</prop>
+      <prop type="x-ContextContent">List price: from 3709 € |  | Цена: от 3709 евро | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Ensuring Quality of Safety Cabinets with Basler Vision Solution and Cogniac's Computer Vision Platform</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обеспечение качества в производстве шкафов безопасного хранения с помощью технологий Basler на платформе компьютерного зрения Cogniac</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220825T141953Z" creationid="SONY-S\Svetlana" changedate="20230103T173006Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173006Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">6764547975653904125, -2878233375205043880</prop>
+      <prop type="x-ContextContent">Ensuring Quality of Safety Cabinets with Basler Vision Solution and Cogniac's Computer Vision Platform |  | Обеспечение качества в производстве шкафов безопасного хранения с помощью технологий Basler на платформе компьютерного зрения Cogniac | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Ensuring Quality of Safety Cabinets with Basler Vision Solution and Cogniac’s Computer Vision Platform</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обеспечение качества в производстве шкафов безопасного хранения с помощью технологий Basler на платформе компьютерного зрения Cogniac</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173007Z" creationid="SONY-S\Svetlana" changedate="20230103T173016Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173016Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">6764547975653904125, -2878233375205043880</prop>
+      <prop type="x-ContextContent">Ensuring Quality of Safety Cabinets with Basler Vision Solution and Cogniac’s Computer Vision Platform |  | Обеспечение качества в производстве шкафов безопасного хранения с помощью технологий Basler на платформе компьютерного зрения Cogniac | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Secure intellectual property with a sophisticated encryption system — this makes data hacking with reverse engineering virtually impossible</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Защитите интеллектуальную собственность с помощью комплексной системы шифрования — в результате взлом данных с обратной инженерией станет практически невозможным</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20221026T221218Z" creationid="SONY-S\Svetlana" changedate="20230103T173024Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173024Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">7239349811578413662, 7775857045931444770</prop>
+      <prop type="x-ContextContent">Secure intellectual property with a sophisticated encryption system — this makes data hacking with reverse engineering virtually impossible |  | Защитите интеллектуальную собственность с помощью комплексной системы шифрования — в результате взлом данных с обратной инженерией станет практически невозможным | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Secure intellectual property with a sophisticated encryption system – this makes data hacking with reverse engineering virtually impossible</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Защитите интеллектуальную собственность с помощью комплексной системы шифрования – в результате взлом данных с обратной инженерией станет практически невозможным</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173025Z" creationid="SONY-S\Svetlana" changedate="20230103T173030Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173030Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">7239349811578413662, 7775857045931444770</prop>
+      <prop type="x-ContextContent">Secure intellectual property with a sophisticated encryption system – this makes data hacking with reverse engineering virtually impossible |  | Защитите интеллектуальную собственность с помощью комплексной системы шифрования – в результате взлом данных с обратной инженерией станет практически невозможным | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Use our Interface Adviser to select the suitable interface.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Подобрать подходящий интерфейс вам поможет наш инструмент «Мастер выбора интерфейса».</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220727T155951Z" creationid="SONY-S\Svetlana" changedate="20230103T173032Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173032Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-3622552843682286150, 4640761154347353136</prop>
+      <prop type="x-ContextContent">Use our Interface Adviser to select the suitable interface. |  | Подобрать подходящий интерфейс вам поможет наш инструмент «Мастер выбора интерфейса». | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Use our Interface Advisor to select the suitable interface.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Подобрать подходящий интерфейс вам поможет наш инструмент «Мастер выбора интерфейса».</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173032Z" creationid="SONY-S\Svetlana" changedate="20230103T173036Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173036Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">1671271927317089309, 4640761154347353136</prop>
+      <prop type="x-ContextContent">Use our Interface Advisor to select the suitable interface. |  | Подобрать подходящий интерфейс вам поможет наш инструмент «Мастер выбора интерфейса». | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Please note that   the setting in inches does not exactly match the image diagonal.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обратите внимание, что параметр в дюймах не обязательно соответствует диагонали изображения в точности.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220727T173635Z" creationid="SONY-S\Svetlana" changedate="20230103T173038Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173038Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">843549221460966408, 4242722609844444248</prop>
+      <prop type="x-ContextContent">Please note that   the setting in inches does not exactly match the image diagonal. |  | Обратите внимание, что параметр в дюймах не обязательно соответствует диагонали изображения в точности. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Please note that the setting in inches does not exactly match the image diagonal.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обратите внимание, что параметр в дюймах не обязательно соответствует диагонали изображения в точности.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20131021T094859Z" creationid="SONY-S\Svetlana" changedate="20230103T173038Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173038Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">843549221460966408, 4242722609844444248</prop>
+      <prop type="x-ContextContent">Please note that the setting in inches does not exactly match the image diagonal. |  | Обратите внимание, что параметр в дюймах не обязательно соответствует диагонали изображения в точности. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Fax +49 4102 463 46 432</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Факс +49 4102 463 432</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173043Z" creationid="SONY-S\Svetlana" changedate="20230103T173050Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173050Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-6753097817257237451, 131451921421357184</prop>
+      <prop type="x-ContextContent">Fax +49 4102 463 46 432 |  | Факс +49 4102 463 432 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Fax +49 4102 463 46 656</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Факс +49 4102 463 46 656</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173056Z" creationid="SONY-S\Svetlana" changedate="20230103T173102Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173102Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-6753097817257237451, -2801912030040694478</prop>
+      <prop type="x-ContextContent">Fax +49 4102 463 46 661 |  | Факс +49 4102 463 46 661 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Fax +49 4102 463 46 661</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Факс +49 4102 463 46 661</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140403T132325Z" creationid="SONY-S\Svetlana" changedate="20230103T173103Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173103Z" usagecount="2">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-6753097817257237451, -2801912030040694478</prop>
+      <prop type="x-ContextContent">Fax +49 4102 463 46 661 |  | Факс +49 4102 463 46 661 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The group's sales increased in the fiscal year 2013 by 16 % to € 65.1 million (previous year:</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>В 2013 финансовом году объем продаж вырос на 16 % и составил 65,1 млн евро по сравнению с</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20150402T102557Z" creationid="SONY-S\Svetlana" changedate="20230103T173107Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173107Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8327011390654052162, -1437845189050987782</prop>
+      <prop type="x-ContextContent">The group's sales increased in the fiscal year 2016 by 14 % to € 97.5 million (previous year: |  | В 2016 финансовом году объем продаж вырос на 14 % и составил 97,5 млн евро по сравнению с | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The group's sales increased in the fiscal year 2014 by 22 % to € 79.2 million (previous year:</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>В 2014 финансовом году объем продаж вырос на 22 % и составил 79,2 млн евро по сравнению с</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173108Z" creationid="SONY-S\Svetlana" changedate="20230103T173118Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173118Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8327011390654052162, -1437845189050987782</prop>
+      <prop type="x-ContextContent">The group's sales increased in the fiscal year 2016 by 14 % to € 97.5 million (previous year: |  | В 2016 финансовом году объем продаж вырос на 14 % и составил 97,5 млн евро по сравнению с | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Tel. +49 4102 463 640
+Fax +49 4102 463 46640
+E-Mail: xenia.neufeld@baslerweb.com</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Тел. +49 4102 463 640
+Факс +49 4102 463 46640
+Эл. почта: xenia.neufeld@baslerweb.com</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20230103T173118Z" creationid="SONY-S\Svetlana" changedate="20230103T173124Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T173124Z" usagecount="1">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-4536579147446250721, -5017509963287011689</prop>
+      <prop type="x-ContextContent">Tel. +49 4102 463 640
+Fax +49 4102 463 46640
+E-Mail: xenia.neufeld@baslerweb.com |  | Тел. +49 4102 463 640
+Факс +49 4102 463 46640
+Эл. почта: xenia.neufeld@baslerweb.com | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Tel. +49 4102 463 662
+Fax +49 4102 463 46662
+E-Mail: peter.behringer@baslerweb.com</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Тел.: +49 4102 463 662
+Факс: +49 4102 463 46662
+Эл. почта: peter.behringer@baslerweb.com</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220330T103118Z" creationid="SONY-S\Svetlana" changedate="20230103T180743Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180743Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">5820840016551268156, -7522920969370100837</prop>
+      <prop type="x-ContextContent">Bayer BG 12 Format / Bayer GB 12 Format |  | Форматы Bayer BG12 / GB12 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>On the host side, the ANN is trained with data, but the inference (image analysis and generation of results) takes place in the device itself (at the edge).</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обучение ИНС с помощью данных осуществляется на стороне управляющей системы, однако логические выводы (анализ изображений и генерация результатов) выполняются непосредственно на устройстве (на периферии).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220728T200814Z" creationid="SONY-S\Svetlana" changedate="20230103T180955Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180955Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>On the host side, the CNN is trained with data, but the inference (image analysis and generation of results) takes place in the device itself (at the edge).</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Обучение СНС с помощью данных осуществляется на стороне управляющей системы, однако логические выводы (анализ изображений и генерация результатов) выполняются непосредственно на устройстве (на периферии).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20211008T093404Z" creationid="SONY-S\Svetlana" changedate="20230103T180746Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180746Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Basler pylon runtime version 6.3.0 - contains drivers for all camera interfaces, programming language runtimes for C, C++, .NET, GenTL and DirectShow/Twain.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Среда выполнения Basler pylon 6 (версия 6.3.0) содержит драйверы для всех вариантов интерфейса камеры, среды выполнения для языков программирования С, C++, .NET и GenTL, а также DirectShow/Twain.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220316T131009Z" creationid="SONY-S\Svetlana" changedate="20230103T180747Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180747Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-233748338310318377, -4091771304060523757</prop>
+      <prop type="x-ContextContent">Basler pylon runtime version 6.3.0 - contains drivers for all camera interfaces, programming language runtimes for C, C++, .NET, GenTL and DirectShow/Twain. |  | Среда выполнения Basler pylon 6 (версия 6.3.0) содержит драйверы для всех вариантов интерфейса камеры, среды выполнения для языков программирования С, C++, .NET и GenTL, а также DirectShow/Twain. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Basler pylon runtime version 7.0.0 - contains drivers for all camera interfaces, programming language runtimes for C, C++, .NET, GenTL and DirectShow/Twain.</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Среда выполнения Basler pylon версии 7.0.0 содержит драйверы для всех вариантов интерфейса камеры, среды выполнения для языков программирования С, C++, .NET и GenTL, а также DirectShow/Twain.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220621T082753Z" creationid="SONY-S\Svetlana" changedate="20230103T180747Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180747Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">-233748338310318377, -2679587157751812383</prop>
+      <prop type="x-ContextContent">Basler pylon runtime version 7.0.0 - contains drivers for all camera interfaces, programming language runtimes for C, C++, .NET, GenTL and DirectShow/Twain. |  | Среда выполнения Basler pylon версии 7.0.0 содержит драйверы для всех вариантов интерфейса камеры, среды выполнения для языков программирования С, C++, .NET и GenTL, а также DirectShow/Twain. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>List price: from 869 €</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Цена: от 869 евро</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220621T091728Z" creationid="SONY-S\Svetlana" changedate="20230103T180747Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180747Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8448165797751636645, 7027545648588429945</prop>
+      <prop type="x-ContextContent">List price: from 3709 € |  | Цена: от 3709 евро | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>List price: from 269€</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Цена: от 269 евро</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220621T091734Z" creationid="SONY-S\Svetlana" changedate="20230103T180747Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180747Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8448165797751636645, 7027545648588429945</prop>
+      <prop type="x-ContextContent">List price: from 3709 € |  | Цена: от 3709 евро | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>List price: from 379 €</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Цена: от 379 евро</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220621T091838Z" creationid="SONY-S\Svetlana" changedate="20230103T180747Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180747Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8448165797751636645, 7027545648588429945</prop>
+      <prop type="x-ContextContent">List price: from 3709 € |  | Цена: от 3709 евро | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>List price: from 219 €</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Цена: от 219 евро</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20220621T091842Z" creationid="SONY-S\Svetlana" changedate="20230103T180748Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180748Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8448165797751636645, 7027545648588429945</prop>
+      <prop type="x-ContextContent">List price: from 3709 € |  | Цена: от 3709 евро | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>List price: from 3709 €</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>Цена: от 3709 евро</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20160331T095302Z" creationid="SONY-S\Svetlana" changedate="20230103T180753Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180753Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8327011390654052162, -1437845189050987782</prop>
+      <prop type="x-ContextContent">The group's sales increased in the fiscal year 2016 by 14 % to € 97.5 million (previous year: |  | В 2016 финансовом году объем продаж вырос на 14 % и составил 97,5 млн евро по сравнению с | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The group's sales increased in the fiscal year 2015 by 8 % to € 85.4 million (previous year:</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>В 2015 финансовом году объем продаж вырос на 8% и составил 85,4 млн евро по сравнению с</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20160331T095302Z" creationid="SONY-S\Svetlana" changedate="20230103T180753Z" changeid="SONY-S\Svetlana" lastusagedate="20230103T180753Z">
+      <prop type="x-LastUsedBy">SONY-S\Svetlana</prop>
+      <prop type="x-Context">8327011390654052162, -1437845189050987782</prop>
+      <prop type="x-ContextContent">The group's sales increased in the fiscal year 2016 by 14 % to € 97.5 million (previous year: |  | В 2016 финансовом году объем продаж вырос на 14 % и составил 97,5 млн евро по сравнению с | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The group's sales increased in the fiscal year 2016 by 14 % to € 97.5 million (previous year:</seg>
+      </tuv>
+      <tuv xml:lang="ru-RU">
+        <seg>В 2016 финансовом году объем продаж вырос на 14 % и составил 97,5 млн евро по сравнению с</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
