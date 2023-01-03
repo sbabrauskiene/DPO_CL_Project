@@ -51,6 +51,7 @@ This repository contains code and supporting material for my CL project involvin
 #### Полезные ссылки
 Сравнение хэшируемых объектов:</br>
     <li> <a href="https://andreyex.ru/programmirovanie/python/kak-ispolzovat-modul-difflib-v-python/">Пример использования библиотеки difflib</a> </br>
+    <li> https://docs-python.ru/standart-library/modul-difflib-python/klass-sequencematcher-modulja-difflib/
 </br>
 Коллокации в параллельных корпусах:</br>
     <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora">Extracting collocations and their translations from parallel corpora</a></li>
