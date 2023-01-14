@@ -40,7 +40,7 @@ This repository contains code and supporting material for my CL project involvin
     <li> Изучить и проанализивать структуру xml tmx-файлов, понять, как обращаться к нужным узлам xml.</li>
     <li> Понять, как искать полные дубликаты. Сравнивать строки и находить сходство. Изучить модуль <a href="https://docs.python.org/3/library/difflib.html">difflib</a>, класс SequenceMatcher (поиск коэффициента сходства).</li>
     <li> Стоит ли использовать регулярные выражения для поиска "проблемных мест"?</li>
-    <li> Отдельный вопрос - как искать потенциальные дубликаты, если в тексте опечатки или добавлены/удалены незначащие слова (артикли, предлоги). Изучить возможность использования <a href="https://abiword.github.io/enchant/">pyenchant</a> для автоматизации исправления опечаток.</li>
+    <li> Отдельный вопрос - как искать потенциальные дубликаты, если в тексте опечатки или добавлены/удалены незначащие слова (артикли, предлоги). Изучить возможность использования <a href="https://abiword.github.io/enchant/">pyenchant</a> для автоматизации исправления опечаток. Метод <a href="https://pypi.org/project/gensim/">Gensim</a> для получения N ближайших слов (most_similar). Использование FastText как дополнение к другим методам для повышения качество исправления опечаток.</li>
     <li> Опционально - написать пользовательский интерфейс.</li>
     
 ### Ожидаемые сложности
@@ -66,7 +66,9 @@ This repository contains code and supporting material for my CL project involvin
 Подготовка данных для MT:</br>
     <li> <a href="https://essay.utwente.nl/58377/1/scriptie_B_Fournier.pdf">Preprocessing on bilingual data for Statistical Machine Translation</a></br>
     <li> <a href="https://machinelearningmastery.com/prepare-french-english-dataset-machine-translation/?__cf_chl_tk=vR4NJ3eSFD4TUepWOdAJM7nFMZKoRgndFssQ.4PUVIQ-1673704047-0-gaNycGzNB-U">How to Prepare a French-to-English Dataset for Machine Translation</a></br>
-</br></br>
+Работа с опечатками:
+</br>
+    <li>    <a href="https://habr.com/ru/company/singularis/blog/358664/">Исправление опечаток, взгляд сбоку</a></li></br>
 Коллокации в параллельных корпусах:</br>
     <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora/">Extracting collocations and their translations from parallel corpora</a></li>
     
