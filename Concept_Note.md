@@ -53,9 +53,10 @@ This repository contains code and supporting material for my CL project involvin
     <li> <a href="https://andreyex.ru/programmirovanie/python/kak-ispolzovat-modul-difflib-v-python/">Пример использования библиотеки difflib</a> </br>
     <li> <a href="https://docs-python.ru/standart-library/modul-difflib-python/klass-sequencematcher-modulja-difflib/">Класс SequenceMatcher</a>
 </br></br>
-Предобработка данных для SMT:</br>
+Подготовка данных для MT:</br>
     <li> <a href="https://essay.utwente.nl/58377/1/scriptie_B_Fournier.pdf">Preprocessing on bilingual data for Statistical Machine Translation</a></br>
-</br>
+    <li> <a href="https://machinelearningmastery.com/prepare-french-english-dataset-machine-translation/?__cf_chl_tk=vR4NJ3eSFD4TUepWOdAJM7nFMZKoRgndFssQ.4PUVIQ-1673704047-0-gaNycGzNB-U">How to Prepare a French-to-English Dataset for Machine Translation</a></br>
+</br></br>
 Коллокации в параллельных корпусах:</br>
     <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora/">Extracting collocations and their translations from parallel corpora</a></li>
     
