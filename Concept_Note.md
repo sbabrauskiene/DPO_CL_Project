@@ -59,9 +59,10 @@ This repository contains code and supporting material for my CL project involvin
     <li> <a href="https://machinelearningmastery.com/prepare-french-english-dataset-machine-translation/?__cf_chl_tk=vR4NJ3eSFD4TUepWOdAJM7nFMZKoRgndFssQ.4PUVIQ-1673704047-0-gaNycGzNB-U">How to Prepare a French-to-English Dataset for Machine Translation</a>
     <li> <a href="https://custom.mt/how-anonymization-works-in-machine-translation/">How Anonymization Works in Machine Translation</a>
 </br></br>
-Работа с опечатками:
-</br>
+Работа с опечатками:</br>
     <li> <a href="https://habr.com/ru/company/singularis/blog/358664/">Исправление опечаток, взгляд сбоку</a></li></br></br>
+Определение языка текста:</br>
+    <li> <a href="https://translatedlabs.com/определение-языка">Информация об инструменте определения языка</a></li></br></br>
 Коллокации в параллельных корпусах:</br>
     <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora/">Extracting collocations and their translations from parallel corpora</a></li>
     
