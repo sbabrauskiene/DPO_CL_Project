@@ -51,18 +51,17 @@ This repository contains code and supporting material for my CL project involvin
 
 #### Полезные ссылки
 Сравнение хэшируемых объектов:</br>
-    <li> <a href="https://andreyex.ru/programmirovanie/python/kak-ispolzovat-modul-difflib-v-python/">Пример использования библиотеки difflib</a> </br>
-    <li> <a href="https://docs-python.ru/standart-library/modul-difflib-python/klass-sequencematcher-modulja-difflib/">Класс SequenceMatcher</a>
-</br></br>
+    <li> <a href="https://andreyex.ru/programmirovanie/python/kak-ispolzovat-modul-difflib-v-python/">Пример использования библиотеки difflib</a></li></br>
+    <li> <a href="https://docs-python.ru/standart-library/modul-difflib-python/klass-sequencematcher-modulja-difflib/">Класс SequenceMatcher</a></li></br>
 Подготовка данных для MT:</br>
-    <li> <a href="https://essay.utwente.nl/58377/1/scriptie_B_Fournier.pdf">Preprocessing on bilingual data for Statistical Machine Translation</a>
-    <li> <a href="https://machinelearningmastery.com/prepare-french-english-dataset-machine-translation/?__cf_chl_tk=vR4NJ3eSFD4TUepWOdAJM7nFMZKoRgndFssQ.4PUVIQ-1673704047-0-gaNycGzNB-U">How to Prepare a French-to-English Dataset for Machine Translation</a>
-    <li> <a href="https://custom.mt/how-anonymization-works-in-machine-translation/">How Anonymization Works in Machine Translation</a>
-</br></br>
+    <li> <a href="https://essay.utwente.nl/58377/1/scriptie_B_Fournier.pdf">Preprocessing on bilingual data for Statistical Machine Translation</a></li>
+    <li> <a href="https://machinelearningmastery.com/prepare-french-english-dataset-machine-translation/?__cf_chl_tk=vR4NJ3eSFD4TUepWOdAJM7nFMZKoRgndFssQ.4PUVIQ-1673704047-0-gaNycGzNB-U">How to Prepare a French-to-English Dataset for Machine Translation</a></li>
+    <li> <a href="https://custom.mt/how-anonymization-works-in-machine-translation/">How Anonymization Works in Machine Translation</a></li>
+</br>
 Работа с опечатками:</br>
-    <li> <a href="https://habr.com/ru/company/singularis/blog/358664/">Исправление опечаток, взгляд сбоку</a></li></br></br>
+    <li> <a href="https://habr.com/ru/company/singularis/blog/358664/">Исправление опечаток, взгляд сбоку</a></li></br>
 Определение языка текста:</br>
-    <li> <a href="https://translatedlabs.com/определение-языка">Информация об инструменте определения языка</a></li></br></br>
+    <li> <a href="https://translatedlabs.com/определение-языка">Информация об инструменте определения языка</a></li></br>
 Коллокации в параллельных корпусах:</br>
     <li> <a href="https://www.researchgate.net/publication/220535804_Extracting_collocations_and_their_translations_from_parallel_corpora/">Extracting collocations and their translations from parallel corpora</a></li>
     
