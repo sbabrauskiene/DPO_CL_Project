@@ -46,13 +46,10 @@ This repository contains code and supporting material for my CL project involvin
 ### Ожидаемые сложности
 <ol>
     <li> Могут возникнуть непредвиденные сложности с парсингом xml, в зависимости от сложности его структуры. </li>
-    <li> Поскольку tmx-файлы содержат большие объемы данных, их обработка может занять много времени. Найти способы ускорить (БД SQL?)</li>
-    <li> 
+    <li> Поскольку tmx-файлы содержат большие объемы данных, их обработка может занять много времени. Найти способы ускорить (БД SQL?)</li> 
 </ol> </br>
-</br>
 
 #### Полезные ссылки
-
 Сравнение хэшируемых объектов:</br>
     <li> <a href="https://andreyex.ru/programmirovanie/python/kak-ispolzovat-modul-difflib-v-python/">Пример использования библиотеки difflib</a> </br>
     <li> <a href="https://docs-python.ru/standart-library/modul-difflib-python/klass-sequencematcher-modulja-difflib/">Класс SequenceMatcher</a>
